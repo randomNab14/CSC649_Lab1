@@ -9,4 +9,4 @@ This Python program calculates the word count and character count of a given sen
 3. Click the green Run button or run via terminal:
    ```bash
    python main.py
-   
+   "# CSC649_Lab1" 
